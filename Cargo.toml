@@ -1,0 +1,15 @@
+[package]
+name = "rinout"
+version = "0.0.1"
+edition = "2021"
+authors = ["Jedsek <jedsek@qq.com>"]
+readme = "README.md"
+license = "MIT"
+documentation = "https://docs.rs/rinout/latest/rinout"
+homepage = "https://github.com/jedsek/rinout"
+repository = "https://github.com/jedsek/rinout"
+keywords = [ "io", "syntax", "input", "output"]
+description = "cin && cout, but rust version"
+
+[dependencies]
+
